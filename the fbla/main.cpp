@@ -1,6 +1,7 @@
 //Using SDL and standard IO
 #include <SDL.h>
 #include <stdio.h>
+#include <blocks.cpp>
 
 //Screen dimension constants
 const int SCREEN_WIDTH = 640;
